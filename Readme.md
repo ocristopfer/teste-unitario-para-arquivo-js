@@ -1,7 +1,7 @@
-# Teste unitario utilizar jasmine
-   Exemplo de como utilizar jasmine para teste unitário 
+# Teste unitario utilizando jasmine
+   Exemplo de como utilizar jasmine para teste unitário de arquivos javascript
 
-## Baixa as dependências
+## Baixar as dependências
 
 ``npm install``
 
