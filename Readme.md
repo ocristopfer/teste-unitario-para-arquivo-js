@@ -1,5 +1,7 @@
 # Teste unitario utilizando jasmine
-   Exemplo de como utilizar jasmine para teste unitário de arquivos javascript
+   Exemplo de como utilizar teste unitário jasmine para teste unitário de arquivos javascript.
+
+
 
 ## Baixar as dependências
 
